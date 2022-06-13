@@ -3,26 +3,16 @@
 
 ## Tech Stack
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></span>
 
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MyBatis-007396?style=flat&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></span>
-
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MyBatis-007396?style=flat&logoColor=white"/></span>
 
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/></span>
-
-<span><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></span>
 
 <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></span>
-
-<span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
 # 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briiiqtt&show_icons=true&theme=dracula)
