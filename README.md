@@ -16,6 +16,6 @@
 
 
 #
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=briiiqtt)](https://solved.ac/briiiqtt)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=briiiqtt)](https://solved.ac/briiiqtt)-->
 
 </div>
